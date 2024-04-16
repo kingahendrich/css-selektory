@@ -1,0 +1,17 @@
+#main {
+    background-color: #942911;
+}
+
+.rest {
+    background-color: #faebd7;
+}
+
+.paragraf {
+    color: #f17e7e;
+}
+
+h1 + h3 {
+    color: #98d183;
+}
+
+/* różnica między + a > jedno sibling a jedno child */
